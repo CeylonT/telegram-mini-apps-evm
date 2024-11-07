@@ -1,1 +1,1 @@
-# telegram-mini-apps-evm
+# Telegram Mini Apps with EVM Integration
