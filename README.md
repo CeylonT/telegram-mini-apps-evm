@@ -1,5 +1,3 @@
-# Telegram Mini Apps with EVM Integration
-
 # Telegram Mini Apps with EVM Integration Workshop
 
 Welcome to the **Telegram Mini Apps with EVM Integration** workshop repository! This repo provides the necessary resources and examples to help you integrate EVM-based smart contracts with Telegram Mini Apps. Learn how to leverage Telegram's platform alongside the power of Ethereum-compatible blockchains to build seamless, Web3-enabled experiences.
